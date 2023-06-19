@@ -1,0 +1,19 @@
+.navbar {
+  background-color: #333;
+  padding: 10px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+}
+
+.searchBar {
+  display: flex;
+  align-items: center;
+}
+
+.searchInput {
+  padding: 5px;
+  border-radius: 4px;
+  border: none;
+  font-size: 16px;
+}
